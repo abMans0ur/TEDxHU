@@ -1,0 +1,16 @@
+* , *::after , *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--white);
+    color: var(--black);
+}
+:root{
+    --red: #ff2b06;
+    --black: #171717;
+    --white: #fafbfd;
+    --grey: #343434;
+    --gold : #c7b42f;
+}
